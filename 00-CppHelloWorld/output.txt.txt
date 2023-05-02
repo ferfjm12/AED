@@ -1,0 +1,16 @@
+OUTPUT:
+
+Windows PowerShell
+Copyright (C) Microsoft Corporation. Todos los derechos reservados.
+
+Instale la versión más reciente de PowerShell para obtener nuevas características y mejoras. https://aka.ms/PSWindows
+
+PS C:\Users\fmartinez\Desktop\FernandoNote\VSC>  & 'c:\Users\fmartinez\.vscode\extensions\ms-vscode.cpptools-1.15.4-win32-x64\debugAdapters\bin\WindowsDebugLauncher.exe' '--stdin=Microsoft-MIEngine-In-jha4ksux.sxe' '--stdout=Microsoft-MIEngine-Out-y1ccf0w3.0ry' '--stderr=Microsoft-MIEngine-Error-q4yzlgxj.ymi' '--pid=Microsoft-MIEngine-Pid-bjpxxnjq.0hw' '--dbgExe=C:\msys64\mingw64\bin\gdb.exe' '--interpreter=mi'
+Hola Mundo!
+PS C:\Users\fmartinez\Desktop\FernandoNote\VSC>
+
+OTRO OUTPUT:
+
+PS C:\Users\fmartinez\Desktop\FernandoNote\VSC\00-CppHelloWorld> ./hello
+Hola Mundo!
+PS C:\Users\fmartinez\Desktop\FernandoNote\VSC\00-CppHelloWorld> 
